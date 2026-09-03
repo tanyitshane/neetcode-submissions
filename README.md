@@ -16,6 +16,7 @@
 2. **Auto-commit** — every time you submit a solution on NeetCode, it is pushed here automatically (configurable by status).
 3. **Bulk Sync** — push all your past solutions at once from the GitHub settings page.
 4. **Manual sync** — from the submission history panel on any problem page, sync or remove individual submissions.
+5. Note: Repo has to be public
 
 ---
 
